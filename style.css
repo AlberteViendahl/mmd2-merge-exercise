@@ -4,7 +4,9 @@ body {
       1rem,
       auto
     );
+    background-color: aqua;
 }
+
 body > * {
   grid-column: 2;
 }
